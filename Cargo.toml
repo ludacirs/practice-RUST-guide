@@ -1,0 +1,14 @@
+[workspace]
+members = [
+    "1/hello_cargo",
+    "2/guessing_game",
+    "3/functions",
+    "3/variables", "4/slice",
+    "5/struct",
+]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+
+[workspace.dependencies] 

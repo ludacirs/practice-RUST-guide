@@ -26,8 +26,11 @@ struct Rectangle {
     height: u32,
 }
 impl Rectangle {
-    fn square(size: u32) -> Self{
-        Self { width: size, height: size }
+    fn square(size: u32) -> Self {
+        Self {
+            width: size,
+            height: size,
+        }
     }
 
     fn can_hold(&self, other: &Rectangle) -> bool {
