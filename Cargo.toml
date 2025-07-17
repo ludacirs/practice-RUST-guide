@@ -1,6 +1,6 @@
 [workspace]
 members = [
-    "1/hello_cargo", "10/generic_type",
+    "1/hello_cargo", "10/generic_type", "12/minigrep",
     "2/guessing_game",
     "3/functions",
     "3/variables", "4/slice",
