@@ -3,6 +3,14 @@
 version = 4
 
 [[package]]
+name = "adder"
+version = "0.1.0"
+
+[[package]]
+name = "asdf"
+version = "0.1.0"
+
+[[package]]
 name = "cfg-if"
 version = "1.0.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -10,6 +18,10 @@ checksum = "9555578bc9e57714c812a1f84e4fc5b4d21fcb063490c624de019f7464c91268"
 
 [[package]]
 name = "functions"
+version = "0.1.0"
+
+[[package]]
+name = "generic_type"
 version = "0.1.0"
 
 [[package]]
