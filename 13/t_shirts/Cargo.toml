@@ -1,0 +1,6 @@
+[package]
+name = "t_shirts"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
